@@ -16,3 +16,10 @@ public class Main
 	
 	}
 }
+
+Output:
+          * 
+        * * 
+      * * * 
+    * * * * 
+  * * * * * 
