@@ -24,6 +24,12 @@ public class Main
 	    System.out.println("obj2 instanceVar: " +obj2.instanceVar);
 	}
 }
+output:
+Accessing instanceVar in methodA 10
+Accessing instanceVar in methodB 10
+obj1 instanceVar: 10
+obj2 instanceVar: 10
+
 INITIALIZATION:
 public class Main
 {
