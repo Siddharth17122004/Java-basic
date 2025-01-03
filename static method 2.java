@@ -16,3 +16,9 @@ public class Main
 	    
 	}
 }
+output:
+Inside method2
+Inside method1
+Static variable 100
+Inside method1
+Static variable 100
