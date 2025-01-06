@@ -29,6 +29,20 @@ public class Main
 		    }
 		    System.out.println();
 		}
+			//print sum
+		
+		for(int i=0;i<row;i++){
+		    int sum1=0;
+		    for(int j=0;j<col;j++){
+		        sum+=arr[i][j];
+		        sum1+=arr[i][j];
+		        
+		    }
+		    System.out.println("The sum of "+i+"th row is "+sum1);
+		    
+		}
+		System.out.println("Total Sum is "+sum);
+	
 		
 	}
 }
@@ -47,3 +61,8 @@ Enter array elements:
 The array elements are: 
  1 2 3
  4 5 6
+	
+The sum of 0th row is 6
+The sum of 1th row is 15
+Sum is 21
+
