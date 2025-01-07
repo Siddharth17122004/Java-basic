@@ -18,3 +18,7 @@ public class Main
 		System.out.println();
 	}
 }
+output:
+15
+14 12 9 5 0 
+
