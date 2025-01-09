@@ -23,7 +23,7 @@ public class Main
     int size=arr.length;
     int mid=size/2;
     int fhs=size-mid;
-    rot=rot%size;
+    rot=rot%fhs;
     rotate(arr,fhs,rot);
     
 		for(int i=0;i<arr.length;i++){
