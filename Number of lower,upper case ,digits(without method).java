@@ -2,7 +2,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		String str=" 3RoseS ";
-		str=str.trim();
+		str=str.replaceAll(" ","");
 	    int u=0,l=0,d=0,s=0;
 		for(int i=0;i<str.length();i++){
 		    char ch=str.charAt(i);  
